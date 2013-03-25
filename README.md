@@ -122,6 +122,7 @@ Planned features
 ----------------
 
 * Write the _Planned Features_ section in README
+* Find a LICENCE
 
 Contributing to pdnsui
 ----------------------
